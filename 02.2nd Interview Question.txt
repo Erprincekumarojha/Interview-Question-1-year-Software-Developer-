@@ -1,0 +1,68 @@
+1.What is Difference between StringBuffer and StringBuilder?
+-- StringBuffer is synchronized i.e. thread safe. It means two threads can't call    the methods of StringBuffer simultaneously.
+--StringBuilder is non-synchronized i.e. not thread safe. It means two threads can   call the methods of StringBuilder simultaneously.
+2. What is the difference between == and === in javascript.
+
+
+
+10.Write a program to find number of time all character are occured in String
+ input: "aabcd"
+ Output:
+ a=2
+ b=1
+ c=1
+ d=1
+Answers:
+-----------
+String s="aabcd";
+char arr[]=s.toCharArray();
+int count=0;
+Map<Charcter,Integer> map=new TreeMap<Charcter,Integer>();
+for(int i=0;i<arr.length;i++){
+      count=0;
+   for(int j=0;j<arr.length;j++){
+      
+       if(arr[i]==arr[j]){
+        count++;
+     }
+   }
+ map.put(arr[i],count);
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@RestController
+class UserController{
+
+@Autowired
+private UserService userService;
+ 
+@GetMapping("/user-details")
+   public ResponseEntity<List<User>>  getUser(){
+
+      return userService.ge
+    
+    }
+
+}
+

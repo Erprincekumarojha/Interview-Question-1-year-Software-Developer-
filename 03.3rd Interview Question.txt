@@ -1,0 +1,22 @@
+1. How to concatenate 10 object of String in one object.
+ input: {"prince","kumar","deepak","address","good"} output:princekumardeepakaddressgood
+2. Write a logical problem for this input and output
+    input: "this_is_a_test"  output: "thisIsATest"
+3.What is Java 1.8 new feature.
+4.Explain about Stream API?
+5. What is studio type Annotation.
+6. What is create controller to Register Patient in DB.
+7. What is the Difference between @Service and @Component
+    @Component is a generic stereotype for any Spring-managed component or bean.
+    @Repository is a stereotype for the persistence layer. 
+    @Service is a stereotype for the service layer.
+   @Controller is a stereotype for the presentation layer (spring-MVC).
+8. What is the Difference between put and Post method in Spring boot.
+9.What is error code in Spring boot range.
+10. What is RDBMS and No-sql
+11. What is mapping in MongoDb with Spring boot?
+12. What is Join in sql.
+13. What procedure and function?
+14. Do you think Java is fully object oriented programming language?
+    Java is not fully object oriented because it supports primitive data type like it,byte,long etc.,which are not     objects. All operations performed on objects must be only through methods exposed at the objects.
+

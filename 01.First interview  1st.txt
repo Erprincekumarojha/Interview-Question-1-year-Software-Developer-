@@ -1,0 +1,28 @@
+1. What is Singleton?
+  class Singult{
+    private static Singult obj=null;
+   private Singult(){
+
+    }
+  public static Singult getInsatance(){
+     
+     if(obj==null){
+        obj=new Singult();
+     }
+
+     return obj;
+  } 
+  }
+2. What is abstraction in java?
+3. What is the use of Annotations? Why you use Annotation
+4. What is request method in web service?
+5. What is restfull web service?
+6. What is the Difference between post and put method in restAPI
+7. How to read values from get method in restAPI.
+8. Develop a Architecture of this classes and method.
+9. How to check String having a null or empty String.
+   String s="";  if(s==null) print("null value") else if(s.isEmpty())print else print     (Data)
+10. Write A sub quesry in DB
+11. What is join in sql 
+11. What is right join and left join in sql.
+

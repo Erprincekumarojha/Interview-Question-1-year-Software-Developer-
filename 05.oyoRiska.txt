@@ -1,0 +1,14 @@
+1.What is difference between Microservices Arcitecture and Architecture   Architectu
+2. How to communicate One microservices with other microservices'?
+    If you want to communicateone micro-service with another we have two way           1. RestTemplate 2. WebClient. 
+    you have create a object of any one give the path or end point of other     microservices. also give what parameters you want to send at calling time. also     which formate like(json/xml). also you have to specify what respsonse you    expected.
+3.What is the http method to call our end point?
+      GetMapping(),PostMapping().................
+4.What is the Difference between Put() and Post() ? 
+5. What is the error status code in http
+      200,400,500,404, 505.  the range of status code is 200 to 599.
+6. What is the Difference between procedure and function pl/sql
+8. What is the use @Autowire?
+9. What is transaction in Spring boot?
+10. What is Searilization in java?
+11. How to restract data member to not for serialization?

@@ -1,0 +1,56 @@
+1.You know about Data Structer
+2. What is Difference between Array and ArrayList
+3. How to Iterate ArrayList in Java.
+4. Which Collection you use in your project.
+5.Difference between ArrayList and LinkdList in java
+6.What is the output of this code
+  class Sample{
+
+      public static void main(String args[]){
+        int i;
+        System.out.println(i);
+    }
+}
+ class Sample{
+
+      public static void main(String args[]){
+        private int i;
+        System.out.println(i);
+    }
+}
+
+ class Sample{
+    private int i;
+      public static void main(String args[]){
+        
+        System.out.println(i);
+    }
+}
+
+How to fix this problam
+--------------------------------
+ class Sample{
+    private static int i;
+      public static void main(String args[]){
+      
+        System.out.println(i);
+    }
+}
+
+8. 
+
+
+Second Round:
+---------------------------
+1. What is your project?
+2. What is functional Interface.
+3. What is callable interface?
+4.What is the use of Default method use in interface.
+5. Java 11 new Features.
+6. What is Synchronize in java?
+7. What is Serilization  and deserialization in java?
+    "Java Object convert into byte-stream"
+8.What is IOC and IOC Container.
+9.What is the Difference between Set and Map.
+
+
