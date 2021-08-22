@@ -1,0 +1,36 @@
+**1. What is oops in java
+OOPs stands for Object-oriented programming. OOPs in Java organizes a program around the various objects and well-defined interfaces. The OOPs Concepts in Java are abstraction, encapsulation, inheritance, and polymorphism. These concepts aim to implement real-world entities in programs.
+
+**2.What is Inheritance in Java
+Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
+
+**3.What is Encapsulation in Java
+Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines.
+encapsulation in java
+We can create a fully encapsulated class in Java by making all the data members of the class private. Now we can use setter and getter methods to set and get the data in it.
+The Java Bean class is the example of a fully encapsulated class.
+
+**4.What is polymorphisms in Java
+Polymorphism in Java is the ability of an object to take many forms. To simply put, polymorphism in java allows us to perform the same action in many different ways. ... Polymorphism is a feature of the object-oriented programming language, Java, which allows a single task to be performed in different ways
+-There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism. We can perform polymorphism in java by method overloading and method overriding.
+-If you overload a static method in Java, it is the example of compile time polymorphism. Here, we will focus on runtime polymorphism in java.
+
+**5.What is Abstraction in java
+-A class which is declared with the abstract keyword is known as an abstract class in Java. It can have abstract and non-abstract methods (method with the body).
+-Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+Another way, it shows only essential things to the user and hides the internal details, for example, sending SMS where you type the text and send the message. You don't know the internal processing about the message delivery.
+There are two ways to achieve abstraction in java
+1.Abstract class (0 to 100%)
+2.Interface (100%)
+
+**6.What is Interface in Java
+An interface in Java is a blueprint of a class. It has static constants and abstract methods.
+-The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not method body. It is used to achieve abstraction and multiple inheritance in Java.
+
+------------------------------------------------
+Collections in Java
+  Collection is group of Heterogeneous, Homogenous, duplicate and unike object.
+-The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.
+-The Java Collections Framework provides the following benefits: Reduces programming effort: By providing useful data structures and algorithms, the Collections Framework frees you to concentrate on the important parts of your program rather than on the low-level "plumbing" required to make it work.
+
+

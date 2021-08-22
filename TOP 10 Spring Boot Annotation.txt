@@ -1,0 +1,20 @@
+OP 12 Annotations of Spring Boot Framework
+1. @SpringBootApplication
+@EnableAutoConfiguration + @ComponentScan + @Configuration
+2. @Configration
+3. @Bean
+4. @Autowired
+5. @Component
+  @Controller (Component,MVC Contoller)
+  @Service
+  @Respository
+6. @ComponentScan
+7. @Required
+8. @Lazy
+9. @ResponseBody 
+10. RequestBody
+11. @RestController
+12. @PathVariable
+13. @Primary
+14. @Qualifier("add1")
+@RequestParam("email") String email

@@ -1,0 +1,20 @@
+**1.What is MongoDB and why use it?
+MongoDB is a document-oriented database which stores data in JSON-like documents with dynamic schema. It means you can store your records without worrying about the data structure such as the number of fields or types of fields to store values. MongoDB documents are similar to JSON objects
+
+**2.What are the features and advantages of spring boot?
+Spring Boot helps developers to start coding right away without wasting time on preparing and configuring the environment. In contrast to other Java frameworks, it provides flexible XML configurations, robust batch processing, database transactions, easy workflow, along with a wide variety of tools for development.
+
+**3.What are the features of spring?
+Most Important Features of the Spring Framework
+i. Lightweight. The Spring Framework is very lightweight with respect to its size and functionality. ...
+ii. Aspect-Oriented Programming (AOP) ...
+iii. Transaction Management. ...
+iv. Container. ...
+v. Dependency Injection. ...
+vi. Integration With Other Frameworks.
+
+**4.Why do we use spring boot?
+The main goal of the Spring Boot framework is to reduce overall development time and increase efficiency by having a default setup for unit and integration tests. If you want to get started quickly with your Java application, you can easily accept all defaults and avoid the XML configuration completely.
+
+**5.what is hibernate in java
+Hibernate is a Java framework that simplifies the development of Java application to interact with the database. It is an open source, lightweight, .
